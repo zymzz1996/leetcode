@@ -2,6 +2,7 @@ package com.zym.queue;
 
 
 /**
+ * 链式队列
  * @author zhouyumeng
  * @date 2021/11/16
  **/
